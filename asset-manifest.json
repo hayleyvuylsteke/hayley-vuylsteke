@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/hayley-vuylsteke/static/css/main.6f64baaf.chunk.css",
+    "main.js": "/hayley-vuylsteke/static/js/main.3ff5d6e7.chunk.js",
+    "main.js.map": "/hayley-vuylsteke/static/js/main.3ff5d6e7.chunk.js.map",
+    "runtime-main.js": "/hayley-vuylsteke/static/js/runtime-main.ccace47a.js",
+    "runtime-main.js.map": "/hayley-vuylsteke/static/js/runtime-main.ccace47a.js.map",
+    "static/js/2.68a6750d.chunk.js": "/hayley-vuylsteke/static/js/2.68a6750d.chunk.js",
+    "static/js/2.68a6750d.chunk.js.map": "/hayley-vuylsteke/static/js/2.68a6750d.chunk.js.map",
+    "static/js/3.fc797e7e.chunk.js": "/hayley-vuylsteke/static/js/3.fc797e7e.chunk.js",
+    "static/js/3.fc797e7e.chunk.js.map": "/hayley-vuylsteke/static/js/3.fc797e7e.chunk.js.map",
+    "index.html": "/hayley-vuylsteke/index.html",
+    "static/css/main.6f64baaf.chunk.css.map": "/hayley-vuylsteke/static/css/main.6f64baaf.chunk.css.map",
+    "static/js/2.68a6750d.chunk.js.LICENSE.txt": "/hayley-vuylsteke/static/js/2.68a6750d.chunk.js.LICENSE.txt",
+    "static/media/Hayley_Vuylsteke_Logo.a5b25193.gif": "/hayley-vuylsteke/static/media/Hayley_Vuylsteke_Logo.a5b25193.gif",
+    "static/media/Martech-logos.96e4281f.png": "/hayley-vuylsteke/static/media/Martech-logos.96e4281f.png",
+    "static/media/certification-icon.414bd7b2.png": "/hayley-vuylsteke/static/media/certification-icon.414bd7b2.png",
+    "static/media/continuous-ed.d80d938f.png": "/hayley-vuylsteke/static/media/continuous-ed.d80d938f.png",
+    "static/media/em-logo.c1977d14.png": "/hayley-vuylsteke/static/media/em-logo.c1977d14.png",
+    "static/media/gear-icon.c26797ba.png": "/hayley-vuylsteke/static/media/gear-icon.c26797ba.png",
+    "static/media/github-logo.4d74fd76.png": "/hayley-vuylsteke/static/media/github-logo.4d74fd76.png",
+    "static/media/hayley-headshot-animated.18a6f7aa.gif": "/hayley-vuylsteke/static/media/hayley-headshot-animated.18a6f7aa.gif",
+    "static/media/hayley-logo-static.39331c10.png": "/hayley-vuylsteke/static/media/hayley-logo-static.39331c10.png",
+    "static/media/managing-icon.2ae28bc2.png": "/hayley-vuylsteke/static/media/managing-icon.2ae28bc2.png",
+    "static/media/school-img.866d768b.png": "/hayley-vuylsteke/static/media/school-img.866d768b.png",
+    "static/media/tech-logos.54704f11.png": "/hayley-vuylsteke/static/media/tech-logos.54704f11.png",
+    "static/media/values-passions.025be29c.gif": "/hayley-vuylsteke/static/media/values-passions.025be29c.gif",
+    "static/media/web-dev-icon.843f857e.png": "/hayley-vuylsteke/static/media/web-dev-icon.843f857e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccace47a.js",
+    "static/js/2.68a6750d.chunk.js",
+    "static/css/main.6f64baaf.chunk.css",
+    "static/js/main.3ff5d6e7.chunk.js"
+  ]
+}
